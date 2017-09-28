@@ -7,6 +7,7 @@ title: Jason Wang's Blogs
 subtitle: Do Or Die
 description: Keep Learning And You Will Be Closed To Your Dream!
 author: Jason Wang
+email: scnu_wang@163.com
 language: zh-Hans
 timezone: Asia/Shanghai
 
@@ -87,3 +88,6 @@ search:
   field: post
   format: html
   limit: 10000
+# Extensions
+## Plugins: http://hexo.io/plugins/
+plugins: hexo-generate-feed
